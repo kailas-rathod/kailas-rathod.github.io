@@ -17,7 +17,7 @@ A simple portfolio template for developer/designers built with React.
 
 ### Setup
 
-Get the code
+Get the code : -
 
 <pre>git clone https://github.com/kailas-rathod/kailas-rathod.github.io.git</pre>
  

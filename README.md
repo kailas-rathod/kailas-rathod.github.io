@@ -18,7 +18,7 @@ A simple portfolio template for developer/designers built with React.
 
 Get the code
 
-<pre>git clone https://github.com/ubaimutl/react-portfolio.git](https://github.com/ubaimutl/react-portfolio.git](https://github.com/kailas-rathod/kailas-rathod.github.io.git)</pre>
+<pre>git clone https://github.com/kailas-rathod/kailas-rathod.github.io.git]</pre>
  
 Install required dependencies
 
@@ -28,7 +28,7 @@ Install required dependencies
 Start the server
 
 <pre>yarn start</pre>
-
+https://github.com/kailas-rathod/kailas-rathod.github.io.git
 ### More
 
 Modify pages content in  `src/content_option.js`.
